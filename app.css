@@ -1,0 +1,27 @@
+.main {
+    margin-top: 10%;
+  }
+  .mainClick {
+    margin-top: 5%;
+  }
+  body {
+    font-family: "Roboto", sans-serif;
+    background-image: url("https://www.wallpapertip.com/wmimgs/237-2375412_cryptocurrency-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: white;
+    padding: 20;
+  }
+  h3 {
+    color:white;
+  }
+  
+  h1 {
+    letter-spacing: 10px;
+    color:white;
+    width: 50px;
+    border: 10px ;
+    padding: 0 0 0px;
+    margin: 10px;
+  }
